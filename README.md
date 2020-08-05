@@ -6,17 +6,16 @@
 
 ## About Me
 
-**Name:**Xi80
+Name:Xi80
 
-**Age:**16
+Age:16
 
-**faculty:**Electric and Electronics Engineering
+faculty:Electric and Electronics Engineering
 
-**Interest:**FM音源/MIDI/STM32
+Interest:FM音源/MIDI/STM32
 
 
 
 ## Links
 
-**Twitter:**[LunaTsukinashi](twitter.com/status/LunaTsukinashi)
-
+Twitter:[LunaTsukinashi](twitter.com/status/LunaTsukinashi)
