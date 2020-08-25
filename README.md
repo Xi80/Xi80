@@ -17,8 +17,8 @@ Interest:FM音源/MIDI/STM32
 
 ## Stats
 
-[![Xi80's github stats](https://github-readme-stats.vercel.app/api?username=Xi80&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xi80)](https://github.com/anuraghazra/github-readme-stats)
+[![Xi80's github stats](https://github-readme-stats.vercel.app/api?username=Xi80&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xi80&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ## Links
 
 Twitter:[LunaTsukinashi](https://twitter.com/LunaTsukinashi)
