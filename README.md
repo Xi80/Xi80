@@ -10,7 +10,7 @@ Name:Xi80
 
 Age:17
 
-faculty:Electric and Electronics Engineering
+Faculty:Electric and Electronics Engineering
 
 Interest:FM音源/MIDI/STM32
 
