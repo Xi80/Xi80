@@ -8,7 +8,7 @@
 
 Name:Xi80
 
-Age:18
+Age:19
 
 Faculty:Electric and Electronics Engineering
 
@@ -23,4 +23,4 @@ Interest:FM音源/MIDI/AVR/Z80/STM32
 
 Twitter:[LunaTsukinashi](https://twitter.com/LunaTsukinashi)
 
-Homepage:[Vide](http://vide.c0ntra1l.xyz)
+Homepage:[Vide](http://videlab.org)
