@@ -12,7 +12,7 @@ Age:19
 
 Faculty:Electric and Electronics Engineering
 
-Interest:FM音源/MIDI/AVR/Z80/STM32
+Interest:MIDI/FM Synthesizer/MC68k/RISC-V/AVR
 
 
 ## Stats
