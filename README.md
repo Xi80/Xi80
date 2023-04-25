@@ -6,7 +6,7 @@
 
 ## About Me
 
-Name:Xi80
+Name:Itsuki Hashimoto
 
 Age:19
 
@@ -22,5 +22,3 @@ Interest:MIDI/FM Synthesizer/MC68k/RISC-V/AVR
 ## Links
 
 Twitter:[LunaTsukinashi](https://twitter.com/LunaTsukinashi)
-
-Homepage:[Vide](http://osashimi.pro)
