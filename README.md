@@ -8,7 +8,7 @@
 
 Name:Itsuki Hashimoto
 
-Age:19
+Age:20
 
 Faculty:Electric and Electronics Engineering
 
