@@ -6,13 +6,7 @@
 
 ## About Me
 
-Name:Itsuki Hashimoto
-
-Age:20
-
-Faculty:Electric and Electronics Engineering
-
-Interest:MIDI/FM Synthesizer/MC68k/RISC-V/AVR
+An Electronics Enthusiast.
 
 ## Links
 
